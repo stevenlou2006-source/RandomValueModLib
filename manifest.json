@@ -1,0 +1,7 @@
+{
+    "name": "RandomValueLib",
+    "version_number": "1.0.5",
+    "website_url": "",
+    "description": "已支持至 REPO v0.4.4 版本，交流QQ群573485890， 核心随机价格库，提供确定性随机算法、黑白名单、现金袋保护等规则，供其他模组调用。",
+    "dependencies": []
+}
